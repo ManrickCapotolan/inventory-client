@@ -1,0 +1,1 @@
+export const isLoading = (state: RootState): boolean => state.ui.isLoading;
