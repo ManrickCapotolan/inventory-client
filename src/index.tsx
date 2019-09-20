@@ -6,7 +6,7 @@ import { BrowserRouter } from 'react-router-dom'
 import { Route, Switch } from 'react-router-dom';
 
 import store from "./store/store";
-import './index.css';
+import './index.less';
 import App from './App';
 
 // const history = createBrowserHistory();
